@@ -16,4 +16,13 @@ This repository is created for the tasks have been done during my virtual intern
 6.Add the option for multiple rounds, allowing the user to play again.
 
 7.Display the user's score, which can be based on the number of attempts taken or rounds won.
+#Task Images
+![image](https://github.com/user-attachments/assets/3f1f809e-b26e-4375-b67f-291e7c190015)
+![image](https://github.com/user-attachments/assets/28a14c2d-382e-446c-986c-7db630a8d7c6)
+![image](https://github.com/user-attachments/assets/a7fe068d-daf7-47fb-b203-895552845ace)
+![image](https://github.com/user-attachments/assets/98371ccb-aaf7-4671-a764-d8b48afb2c66)
+
+
+
+
 
