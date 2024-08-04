@@ -33,6 +33,39 @@ Input: Take marks obtained (out of 100) in each subject. Calculate Total Marks: 
 ![image](https://github.com/user-attachments/assets/49597b12-c05f-45be-a4c8-d30eb7f7908b)
 ![image](https://github.com/user-attachments/assets/5211f443-5e1d-46ae-a6ff-fe5b6e6ac118)
 
+# Task 3:ATM Interface
+
+# Task Description
+
+1.Create a class to representthe ATM machine.
+
+2.Design the user interface for the ATM, including options such as withdrawing, depositing, and hecking the balance.
+
+3.Implement methods for each option, such as withdraw(amount), deposit(amount), and checkBalance().
+
+4.Create a class to represent the user's bank account, which stores the account balance.
+
+5.Connect the ATM class with the user's bank account class to access and modify the account balance.
+
+6.Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
+
+7.Display appropriate messages to the user based on their chosen options and the success or failure of their transactions.
+
+# Task Images
+
+
+![image](https://github.com/user-attachments/assets/00789db1-3159-48f7-804d-edc5955d8bad)
+
+![image](https://github.com/user-attachments/assets/0861de29-28c0-4e32-88b4-1e7e8a4efe52)
+
+![image](https://github.com/user-attachments/assets/8cc7ed3f-24b7-4287-b6e3-f145fa754062)
+
+
+
+
+
+
+
 
 
 
