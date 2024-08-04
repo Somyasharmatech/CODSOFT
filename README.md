@@ -16,11 +16,27 @@ This repository is created for the tasks have been done during my virtual intern
 6.Add the option for multiple rounds, allowing the user to play again.
 
 7.Display the user's score, which can be based on the number of attempts taken or rounds won.
-#Task Images
+# Task Images
 ![image](https://github.com/user-attachments/assets/3f1f809e-b26e-4375-b67f-291e7c190015)
 ![image](https://github.com/user-attachments/assets/28a14c2d-382e-446c-986c-7db630a8d7c6)
 ![image](https://github.com/user-attachments/assets/a7fe068d-daf7-47fb-b203-895552845ace)
 ![image](https://github.com/user-attachments/assets/98371ccb-aaf7-4671-a764-d8b48afb2c66)
+
+
+# Task 2: Grade Calculator
+
+# Task Description
+Input: Take marks obtained (out of 100) in each subject. Calculate Total Marks: Sum up the marks obtained in all subjects. Calculate Average Percentage: Divide the total marks by the total number of subjects to get the average percentage. Grade Calculation: Assign grades based on the average percentage achieved. Display Results: Show the total marks, average percentage, and the corresponding grade to the user.
+
+# Task Images
+
+![image](https://github.com/user-attachments/assets/49597b12-c05f-45be-a4c8-d30eb7f7908b)
+![image](https://github.com/user-attachments/assets/5211f443-5e1d-46ae-a6ff-fe5b6e6ac118)
+
+
+
+
+
 
 
 
